@@ -3,11 +3,11 @@ def main():
     y =int(input())
 
     if (x < y):
-        st = "x is less than y"
+        z = "x is less than y"
     else:
-        st = "x is greater than y"
+        z = "x is greater than y"
 
-    print (st)
+    print (z)
 
 
 if __name__ == "__main__":
